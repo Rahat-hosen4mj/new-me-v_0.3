@@ -2,6 +2,49 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     text-decoration: none;
+    font-family:sans-serif;
+}
+.banner-container{
+    width: 100%;
+    padding: 0 2rem;
+    height: 100vh;
+    background-image: url("../images/banner/banner1.png");
+    background-size: cover;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    color: black;
+}
+.banner-details{
+    width: 50%;
+    text-align: right;
+}
+
+.title-banner{
+    font-family: Work Sans;
+    font-weight: 700;
+    font-size: 4rem;
+    text-align: right;
+}
+.descripton{
+ font-weight: 400;
+ font-family: Work Sans, sans-serif;
+ font-size: 1rem;
+ line-height: 1.6rem;
+ margin: 24px 0 32px 0;
+}
+.btn{
+    padding: 15px 35px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    margin: 5px; 
+}
+.btn-contuct{
+    background-color: #F15B22;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 400;
 }
