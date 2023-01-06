@@ -8,7 +8,11 @@ Click here for live site link [https://github.com/Rahat-hosen4mj/new-me-v_0.3](h
 ## technologies  
 * vanina html and html5
 * vanila css
+* flat icon
 
 ## summary
 * A beautiful banner with details
+* Previous year mistake review
+* new year mission
+* new year plan
 
