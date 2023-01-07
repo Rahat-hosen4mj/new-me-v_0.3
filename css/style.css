@@ -42,6 +42,7 @@
     border-radius: 5px;
     font-size: 18px;
     margin: 5px; 
+    font-weight: 600;
 }
 .btn-contuct{
     background-color: #F15B22;
@@ -143,7 +144,7 @@
     width: 90%;
     /* border: 1px solid red; */
     height: 70vh;
-    margin: 5rem 2rem;
+    margin: 3rem auto;
     text-align: center;
 }
 .plan-title{
@@ -184,3 +185,34 @@
     line-height: 10px;
 }
 /* ========= paln section end =========== */
+
+/* ========= call me section start =========== */
+.call-now-section{
+    width: 80%;
+    margin: 2rem auto;
+    height: 50%;
+}
+.call-now-container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+   
+    justify-content: center;
+    background-image: url("../images/watch.png"),linear-gradient(to left,rgba(255,0,0,0), #f36329);
+    background-blend-mode: overlay;
+    height: 300px;
+    padding-left: 3rem;
+    border-radius: 8px;
+}
+.call-now-header{
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 45px;
+}
+.call-btn{
+    background: #fff;
+    color: #F15B22;
+    margin-top: 26px;
+}
+/* ========= call me section end =========== */
