@@ -1,4 +1,4 @@
-# new-me-v_0.3 [my first project in 2023]
+## new-me-v_0.3 [planning project (years plan)]
 ## live site link
 Click here for live site link [new-me-v_0.3/index.html](https://rahat-hosen4mj.github.io/new-me-v_0.3/index.html)
 
