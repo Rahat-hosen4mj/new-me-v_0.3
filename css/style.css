@@ -87,7 +87,8 @@
 }
 .flexible-box img{
     width: 80%;
-    border-radius: 10px;
+    border-radius: 50%;
+   
 }
 
 
@@ -136,3 +137,50 @@
 #goal{
     background-color: rgb(159, 210, 224);
 }
+
+/* ========= plan section start =========== */
+.my-plan{
+    width: 90%;
+    /* border: 1px solid red; */
+    height: 70vh;
+    margin: 5rem 2rem;
+    text-align: center;
+}
+.plan-title{
+    color: #111111;
+    text-align: center;
+    font-size: 2.7rem;
+    padding: .5rem;
+    margin-bottom: 3rem;
+}
+.plan-items-container{
+    display: flex;
+    gap: 1rem;
+    justify-content: space-around;
+}
+.plan-item{
+    height: 230px;
+    width: 250px;
+    border-radius: 7px;
+    box-shadow: 2px 3px 8px rgb(204, 241, 204);
+    padding: 16px 0;   
+}
+
+.plan-items-container.plan-item .icon{
+    height: 90px;
+    width: 90px;
+}
+.plan-heading{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 25px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 16px;
+}
+.plan-wish{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 10px;
+}
+/* ========= paln section end =========== */
